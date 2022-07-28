@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ssidd02. I'm a freshman in the Undergraduate School of Studies hoping to transfer into Computer Science in the College of Natural Sciences in UT Austin. 
-- 👀 I’m interested in Software development and data analysis
-- 🌱 I’m currently working on various small projects that pique my interest
-- 📫 Reach me at simaaksidd1@gmail.com
+- 👋 Hi, I’m Simaak Siddiqi. I'm a Sophomore in the College of Natural Sciences in The University of Texas at Austin 
+- 👀 I’m interested in Software development
+- 🌱 I’m currently working on the Foundations path of [The Odin Project](https://www.theodinproject.com/)
+- 📫 Reach me at simaaksidd1@gmail.com or through my [linkedIn](https://www.linkedin.com/in/simaak-siddiqi/)
 
 <!---
 ssidd02/ssidd02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
