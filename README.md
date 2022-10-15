@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Simaak Siddiqi. I'm a Sophomore in the College of Natural Sciences in The University of Texas at Austin 
-- 👀 I’m interested in Software development
+- 👋 Hi, I’m Simaak Siddiqi. I'm a Sophomore Mathmatics major in the College of Natural Sciences in The University of Texas at Austin 
+- 👀 I’m interested in Software and Web development, Data science, Machine Learning
 - 🌱 I’m currently working on the Foundations path of <a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a>
 - 📫 Reach me at simaaksidd1@gmail.com or through my <a href="https://www.linkedin.com/in/simaak-siddiqi/" target="_blank">LinkedIn</a>
 
